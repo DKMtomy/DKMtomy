@@ -7,7 +7,7 @@ discord bot, gametest, c# and website developer
 ive been learning code since december 2021, i started with gametest and discord bot development and i just revently started working on c# projects
 
 * 🌍  I'm based in Antwerp
-* 🚀  I'm currently working on [Citytopia](http://citytopia.netlify.app/)
+* 🚀  I'm currently working on ...
 * 🧠  I'm learning c++ and c#
 * 🤝  I'm open to collaborating on game cheats
 
